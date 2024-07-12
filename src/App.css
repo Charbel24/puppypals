@@ -6,3 +6,23 @@
 body{
   background-color: aquamarine;
 }
+.app{
+  display: flex;
+  padding: 2rem;
+}
+
+.puppylist{
+  border: 1px solid black;
+  padding: 1rem;
+  font-size: x-large;
+  height: 90vh;
+}
+
+.puppyinfo{
+  padding: 1rem;
+}
+
+ul{
+  list-style: none;
+  line-height: 2;
+}
